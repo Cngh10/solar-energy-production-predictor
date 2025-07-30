@@ -10,6 +10,28 @@ git clone https://github.com/Cngh10/solar-energy-production-predictor.git && cd 
 
 **Then open your browser to:** `http://localhost:8501`
 
+## 📸 Application Screenshots
+
+### 🏠 Home Dashboard
+![Home Dashboard](https://github.com/Cngh10/solar-energy-production-predictor/raw/main/screenshots/home-dashboard.png)
+
+*Comprehensive overview with dataset statistics, model information, and sample data visualization.*
+
+### 🔮 Prediction Interface
+![Prediction Interface](https://github.com/Cngh10/solar-energy-production-predictor/raw/main/screenshots/prediction-interface.png)
+
+*Interactive form for entering solar system specifications and real-time energy production predictions.*
+
+### 📊 Data Analysis
+![Data Analysis](https://github.com/Cngh10/solar-energy-production-predictor/raw/main/screenshots/data-analysis.png)
+
+*Advanced visualizations showing energy production vs system size and utility performance analysis.*
+
+### 📈 Model Performance
+![Model Performance](https://github.com/Cngh10/solar-energy-production-predictor/raw/main/screenshots/model-performance.png)
+
+*Detailed model metrics including R² score (0.865), RMSE, and feature importance analysis.*
+
 ## 🚀 Quick Start
 
 ### Prerequisites
