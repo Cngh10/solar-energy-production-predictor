@@ -2,17 +2,31 @@
 
 A comprehensive machine learning application that predicts annual photovoltaic (PV) energy production using advanced XGBoost algorithms and interactive Streamlit interface.
 
+## 🚀 Quick Setup (One Command)
+
+```bash
+git clone https://github.com/Cngh10/solar-energy-production-predictor.git && cd solar-energy-production-predictor && pip install -r requirements.txt && streamlit run app.py
+```
+
+**Then open your browser to:** `http://localhost:8501`
+
 ## 🚀 Quick Start
 
 ### Prerequisites
 - Python 3.8 or higher
-- All required model files (see below)
+- Git (for cloning the repository)
 
 ### Installation
 
-1. **Clone or download the project files**
+1. **Clone the repository**
    ```bash
-   # Ensure you have all these files in your directory:
+   git clone https://github.com/Cngh10/solar-energy-production-predictor.git
+   cd solar-energy-production-predictor
+   ```
+
+2. **Alternative: Download manually**
+   ```bash
+   # If you prefer to download manually, ensure you have all these files:
    # - app.py
    # - requirements.txt
    # - xgboost_best_model.pkl
@@ -21,17 +35,17 @@ A comprehensive machine learning application that predicts annual photovoltaic (
    # - Solar Energy.csv
    ```
 
-2. **Install dependencies**
+3. **Install dependencies**
    ```bash
    pip install -r requirements.txt
    ```
 
-3. **Run the Streamlit app**
+4. **Run the Streamlit app**
    ```bash
    streamlit run app.py
    ```
 
-4. **Open your browser**
+5. **Open your browser**
    - The app will automatically open at `http://localhost:8501`
    - If it doesn't open automatically, navigate to the URL shown in your terminal
 
